@@ -1,4 +1,4 @@
-# windows-way
+# windows-wiki
 
 Windows上でVagrant使ったりしてアプリケーションの実行環境を整えるためのノウハウ
 
